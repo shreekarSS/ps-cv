@@ -29,13 +29,4 @@ managers:
   - name: update
     configuration:
       labels: [bot]
-  - name: info
-  - name: version
-    configuration:
-      assignees:
-        - sesheta
-      labels: [bot]
-      changelog_file: true
-  - name: thoth-advise
-    configuration:
-      labels: [bot]
+    
